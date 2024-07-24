@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E6F0FC96-C8D4-4D34-AC47-276B393343CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67B013EF-C4E2-43B0-8799-06861EFB7FF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoRotatingRectangles/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "67B013EF-C4E2-43B0-8799-06861EFB7FF8 - 120df1a3ef91702a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoRotatingRectangles.AppDelegate.__allocating_init() -&gt; TwoRotatingRectangles.AppDelegate"
+                  moduleName = "TwoRotatingRectangles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleshaujay/Desktop/TwoRotatingRectangles/TwoRotatingRectangles/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "67B013EF-C4E2-43B0-8799-06861EFB7FF8 - ac3101346321c572"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoRotatingRectangles.AppDelegate.init() -&gt; TwoRotatingRectangles.AppDelegate"
+                  moduleName = "TwoRotatingRectangles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleshaujay/Desktop/TwoRotatingRectangles/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "67B013EF-C4E2-43B0-8799-06861EFB7FF8 - dbc045875ae752ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoRotatingRectangles.AppDelegate.__deallocating_deinit"
+                  moduleName = "TwoRotatingRectangles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleshaujay/Desktop/TwoRotatingRectangles/TwoRotatingRectangles/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "67B013EF-C4E2-43B0-8799-06861EFB7FF8 - 4364370d4cea28ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "TwoRotatingRectangles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aleshaujay/Desktop/TwoRotatingRectangles/TwoRotatingRectangles/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
